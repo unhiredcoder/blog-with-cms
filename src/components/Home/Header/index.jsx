@@ -23,7 +23,7 @@ const Header = () => {
     <header className='home-header'>
       <h2>Welcome to </h2> {/* Updated line */}
       <h1>
-        <span>“</span>EchoMinds <span>”</span>
+        <span>“</span>Mind 🏄🏻‍♀️ Waves <span>”</span>
       </h1>
       <p>
         {greetUser()} Awesome place to make oneself <br /> productive and entertained through
