@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+/* @import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+*,
+*::after,
+*::before {
+box-sizing: border-box;
+margin: 0;
+}
+
+body {
+font-family: 'Handlee', sans-serif;
+/* font-weight: 300; */
+}
+
+button,
+input {
+font-family: 'Handlee', sans-serif;
+/* font-weight: 300; */
+
+}
+
+.container {
+max-width: 1140px;
+margin: 0 auto;
+padding: 1rem 0;
+}

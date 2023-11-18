@@ -1,0 +1,18 @@
+.chip {
+  font-size: 0.8rem;
+  background: linear-gradient(to right, #6190e8, #a7bfe8);
+  color: #fff;
+  padding: 0.7rem 1rem;
+  white-space: nowrap;
+  border-radius: 5px;
+  width: fit-content;
+  font-family: sans-serif;
+  text-transform: capitalize;
+}
+
+@media (max-width: 600px) {
+.chip{
+  padding: 0.6rem .8rem;
+
+}
+}
